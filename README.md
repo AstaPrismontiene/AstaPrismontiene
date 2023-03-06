@@ -7,6 +7,6 @@
 
 🎉 Crazy about analyzing data and getting insights from raw numbers.
 
-![image](https://user-images.githubusercontent.com/111267909/223228064-b9482441-6263-4dac-907c-5f8e666b6e46.png)
+![image](https://user-images.githubusercontent.com/111267909/223228448-f966b306-443d-4de4-8009-7f22aaf17a37.png)
 Find me on: [LinkedIn](https://www.linkedin.com/in/asta-prismontiene/)
 
