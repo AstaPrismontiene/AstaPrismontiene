@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-🚀 I am Studying Data Analytics at Turing College.
+🚀 Studying Data Analytics at Turing College.
 
 🧑‍🎓 Looking forward to studying Python and Tableau.
 
