@@ -7,5 +7,5 @@
 
 🎉 Crazy about analyzing data and getting insights from raw numbers.
 
-[Find me on linkedin](https://www.linkedin.com/in/asta-prismontiene/)
+Find me on [LinkedIn](https://www.linkedin.com/in/asta-prismontiene/)
 
