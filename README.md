@@ -1,11 +1,11 @@
 
 ### Hi there 👋
 
-🚀 Studying Data Analytics at Turing College.
+🚀 Studied Data Analytics at Turing College
 
-🧑‍🎓 Looking forward to studying Python and Tableau.
+🧑‍🎓 Studying PowerBI and Python
 
-🎉 Crazy about analyzing data and getting valuable insights from raw numbers.
+🎉 Crazy about analyzing data and getting valuable insights from raw numbers
 
 💬 Find me on: ![image](https://user-images.githubusercontent.com/111267909/223229125-2fb2e189-8f25-4ddf-9bc1-67964e9002d9.png)
 [LinkedIn](https://www.linkedin.com/in/asta-prismontiene/)
